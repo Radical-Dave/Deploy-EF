@@ -24,6 +24,9 @@ PS>
 Deploy-EF
 ```
 
+## Dependencies
+dotnet.exe
+
 ## Release Notes
 - 0.1 init
 
